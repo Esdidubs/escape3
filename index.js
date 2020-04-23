@@ -1,5 +1,5 @@
 const passcodes = {
-	try1 : 'BEKS',
+	try1 : 'BERS',
 	try2 : '6784',
 	try3 : 'STAG'
 };
